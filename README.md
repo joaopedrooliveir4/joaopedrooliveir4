@@ -18,7 +18,7 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafi
 ### Relacionais
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### NoSQL
+### Não Relacionais
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📫 Contato
